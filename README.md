@@ -1,2 +1,5 @@
 # Primera_Analizador_Python 
-Este analizador consiste en una Calculadora con una analizador de PLY,con  el recorrido del AST
+Este analizador consiste en una Calculadora con una analizador de PLY,con  el recorrido del AST 
+Hacer caso omiso al archivo Person
+
+
